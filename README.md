@@ -1,2 +1,3 @@
 # Prepcourse-Henry
-Este es un repositorio de prueba del módulo 2 del prepCourse de Henry
+prueba de como crear un reósitorios y clonarlo desde github a micomputadora
+
